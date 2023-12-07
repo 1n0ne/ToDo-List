@@ -15,6 +15,7 @@ This project aims to build a to do list application by applying HTML, CSS and Ja
 
 ## Demo
 ![website-screenshot](img/screenshot.png)
+
 ## Featuers
 -  Adding a Todo
 -  Rendering Todo List
@@ -24,4 +25,9 @@ This project aims to build a to do list application by applying HTML, CSS and Ja
 -  Todo Counter
 -  Prsistent Storage
 
+## Installation
+`git clone   https://github.com/1n0ne/ToDo-List.git`
+
+## License
+MIT
 
